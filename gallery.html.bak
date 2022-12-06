@@ -1,0 +1,62 @@
+﻿<!doctype html>
+
+<!--
+	Azlyn Fendrick
+	21 November 2022
+	CMIS Final Project
+	
+	Website template based on Tutorial 2: Tri andf Suceed Sports.
+-->
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="keywords" content="home business, custom, clothing, stickers, personalization" />
+		<title>AAC Products</title>
+		<link href="layout.css" rel="stylesheet" />
+		<link href="styles.css" rel="stylesheet" />
+	</head>
+
+	<body>
+	   <header>
+			<a href="index.html">
+				<img src="aac_logo.png" alt="A&A Crafters" />
+			</a>
+	   </header>
+	   
+	   <nav>
+			<h1>Links</h1>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="price.html">Pricing</a></li>
+					<li><a href="order.html">Order</a></li>
+					<li><a href="gallery.html">Gallery</a></li>
+				</ul>
+	   </nav>
+
+		<article id="about_aac">
+		  <h1>What Can We Do? </h1>
+			<video>
+				<source src="whatvideo.mp4" type="video/mp4">
+				
+			</video>				
+		</article>
+	
+		
+		<footer>
+			<address>
+				<a class="footer" href="index.html">A&amp;A Crafters</a> &#8226;
+				<a class="footer" href="https://www.google.com/maps/place/6600+S+32nd+St,+Lincoln,+NE+68516/@40.7439622,-96.6754121,17z/data=!3m1!4b1!4m5!3m4!1s0x879695dd3d5953df:0xdf77b7c601619138!8m2!3d40.7439622!4d-96.6732181">6600 S 32nd St</a> &#8226;
+				<a class="footer" href="tel:+4025124067">402.512.4067</a> &#8226;
+				<a class="footer" href="mailto:aacrafters2@gmail.com">Email</a>
+			</address>
+			
+			<address>
+				<a href="https://www.instagram.com/aa_crafters/">
+					<img class="insta" src="instagram.png" alt="Instagram"/></a>
+				<a href="https://www.etsy.com/people/uotmconnw6701ni8">
+					<img class="etsy" src="Etsy.png" alt="Etsy"/></a>
+			</address>
+		</footer>
+	</body>
+</html>
